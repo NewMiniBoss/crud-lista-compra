@@ -19,4 +19,5 @@ function saveItem() {
     }
 
     console.log(listaItens)
+    console.log(listaItens)
 }
